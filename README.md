@@ -6,7 +6,7 @@
 3. [Features](#features)
 4. [Objectives](#objectives)
 5. [How to use](#how-to-use)
-6. [Contributors](#contributors)
+6. [Author](#author)
 7. [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -55,3 +55,11 @@ This project involves creating a simple client-server communication system using
    ```sh
    ./client <server_pid> <message>
   Replace <server_pid> with the PID of the running server and <message> with the string you wish to send.
+
+## Author
+
+- [Andre Silva](https://github.com/mzsv/)
+
+## Acknowledgements
+
+- The 42 School for providing the project specifications and work environment.
